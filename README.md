@@ -1,10 +1,11 @@
 # FamilyTreeCodeRepo
 
 1. clone the repo from below git url.
-https://github.com/baratamramprasad/FamilyTreeCodeRepo.git
+
+	https://github.com/baratamramprasad/FamilyTreeCodeRepo.git
 
 2.Go to HomeDir and run below command
-mvn spring-boot:run
+	mvn spring-boot:run
 
 3.Aftre spring boot application is initiated, check if the familytreeService is deployed or not by below get request and see the welcome msg.
 http://localhost:8080/
