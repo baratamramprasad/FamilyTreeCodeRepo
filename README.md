@@ -10,7 +10,7 @@
 3.Aftre spring boot application is initiated, check if the familytreeService is deployed or not by below get request and see the welcome msg.
 http://localhost:8080/
 
-4.Now application is ready.
+4.Now application is ready.set content-type as Application/json
 
 	A-API to  create/update the family member.
 		 POST "/familytreeservice/addOrUpdate 
